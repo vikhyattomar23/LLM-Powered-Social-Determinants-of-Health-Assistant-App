@@ -16,8 +16,7 @@ This project is an AI-powered web application that allows social workers and car
 - 📍 Zip code contextualization (city/county lookup)
 - 📊 Risk score table + bar chart visualization
 - 🏥 Auto-recommendations for interventions
-- 🌍 Free real-time referral search (via OpenStreetMap API) in Minnesota
-- ➕ Extended support categories: therapy, fitness, wellness, eldercare
+- 🌍 Free real-time referral search
 
 ## 🧱 Tech Stack
 
@@ -32,14 +31,3 @@ This project is an AI-powered web application that allows social workers and car
 
 Patient is a 45-year-old single mother recently evicted from her apartment. 
 She has three children, works two part-time jobs, and struggles with groceries and transportation.
-
-📍 Future Enhancements
-Embedding-based RAG for local policy matching
-
-Custom training for clinical-style notes
-
-Audit logs for LLM decisions
-
-Map-based resource navigation
-
-Support for multi-state referrals
