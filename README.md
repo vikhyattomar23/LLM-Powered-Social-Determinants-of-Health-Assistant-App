@@ -1,14 +1,9 @@
 # 🧠 LLM-Powered-Social-Determinants-of-Health-Assistant-App
 
+Developed an LLM-powered healthcare assistant using Streamlit and OpenAI GPT-4o to analyze unstructured clinical notes, quantify Social Determinants of Health (SDoH) risks across six domains, and generate localized referral suggestions in real time; integrated ZIP code and demographic context to enhance output relevance and usability for care managers.
+
 This project is an AI-powered web application that allows social workers and care managers to assess **Social Determinants of Health (SDoH)** risk levels from clinical notes using OpenAI’s GPT-4o. It also recommends **real-world service referrals** based on high-risk SDoH factors.
 
-I developed a **Streamlit-based web application** that allows social workers to paste a patient’s case note, optionally provide ZIP code and demographics, and then get:
-
-1. Risk scores (0–100) for six SDoH domains: Housing, Employment, Food, Transportation, Family, Financial
-2. Local referrals (e.g., shelters, food banks, NGOs) for domains with high risk, tailored to the ZIP code
-3. Visualizations: risk heatmap, bar chart, and a structured results table
-
-The assistant is designed to be lightweight and interactive, requiring no backend database. Everything is computed live using **GPT-4o through OpenAI’s API**.
 
 <img width="1467" alt="Screenshot 2025-07-01 at 4 46 48 AM" src="https://github.com/user-attachments/assets/2e58ce81-3490-4811-b4bc-f2299c502e53" />
 <img width="1467" alt="Screenshot 2025-07-01 at 4 47 06 AM" src="https://github.com/user-attachments/assets/d4009831-22b1-4200-9d69-66de91834d5d" />
