@@ -27,7 +27,26 @@ This project is an AI-powered web application that allows social workers and car
 - `pgeocode` for ZIP code resolution
 
 
-🧪 Sample Prompt
+🧪 Sample Prompts
 
-Patient is a 45-year-old single mother recently evicted from her apartment. 
-She has three children, works two part-time jobs, and struggles with groceries and transportation.
+🏠 Housing + 🍲 Food Insecurity
+"Patient was recently evicted and reports not having enough groceries to feed her children regularly."
+
+🚗 Transportation + 🏥 Access to Care
+"Patient missed several medical appointments due to lack of reliable transportation options."
+
+💼 Employment + 💸 Financial Strain
+"Patient works two unstable part-time jobs and still struggles to cover monthly expenses."
+
+👩‍👧 Family Stress + 🏠 Housing
+"Single parent with three children currently living in overcrowded temporary housing after eviction."
+
+🍲 Food Insecurity + 💸 Financial Strain
+"Patient reports skipping meals due to limited income and inability to afford groceries consistently."
+
+🚗 Transportation + 💼 Employment
+"Patient lacks a car and often arrives late to work, putting her part-time job at risk."
+
+👩‍👧 Family Support + 💼 Employment
+"Patient is a single parent working two jobs without any family or social support for childcare."
+
