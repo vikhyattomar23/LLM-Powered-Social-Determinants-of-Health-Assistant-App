@@ -35,7 +35,7 @@ This project is an AI-powered web application that allows social workers and car
 - `pgeocode` for ZIP code resolution
 
 
-🧪 Sample Prompts
+🧪 Sample Clinical Notes
 
 🏠 Housing + 🍲 Food Insecurity
 "Patient was recently evicted and reports not having enough groceries to feed her children regularly."
