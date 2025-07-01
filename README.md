@@ -2,6 +2,14 @@
 
 This project is an AI-powered web application that allows social workers and care managers to assess **Social Determinants of Health (SDoH)** risk levels from clinical notes using OpenAI’s GPT-4o. It also recommends **real-world service referrals in Minnesota** based on high-risk areas.
 
+<img width="1467" alt="Screenshot 2025-07-01 at 4 46 48 AM" src="https://github.com/user-attachments/assets/2e58ce81-3490-4811-b4bc-f2299c502e53" />
+<img width="1467" alt="Screenshot 2025-07-01 at 4 47 06 AM" src="https://github.com/user-attachments/assets/d4009831-22b1-4200-9d69-66de91834d5d" />
+<img width="1467" alt="Screenshot 2025-07-01 at 4 47 24 AM" src="https://github.com/user-attachments/assets/8c7204f8-75fc-4df1-b5a2-c84ff7162717" />
+<img width="1467" alt="Screenshot 2025-07-01 at 4 47 36 AM" src="https://github.com/user-attachments/assets/ce2bd8dd-f004-4e6a-b6ff-e0aa27ab196d" />
+<img width="1467" alt="Screenshot 2025-07-01 at 4 47 50 AM" src="https://github.com/user-attachments/assets/4e301681-3500-42d5-83c6-9ae9565cc5a1" />
+<img width="1467" alt="Screenshot 2025-07-01 at 4 48 01 AM" src="https://github.com/user-attachments/assets/fdb528c0-2483-4fbc-9565-e157cebd0ef2" />
+
+
 ## 🚀 Features
 
 - 📋 Upload or type patient case notes
@@ -19,7 +27,6 @@ This project is an AI-powered web application that allows social workers and car
 - 🌍 Free real-time referral search
 
 ## 🧱 Tech Stack
-<img width="1467" alt="Screenshot 2025-07-01 at 4 45 40 AM" src="https://github.com/user-attachments/assets/b6774ac1-8ad2-4665-86b6-ba3975def30a" />
 
 - `Python`
 - `Streamlit` for interactive UI
