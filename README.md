@@ -26,7 +26,6 @@ This project is an AI-powered web application that allows social workers and car
 - `OpenAI GPT-4o` for risk scoring
 - `Pandas` & `Matplotlib` for visualization
 - `pgeocode` for ZIP code resolution
-- `OpenStreetMap Nominatim API` for referrals
 
 
 🧪 Sample Prompt
