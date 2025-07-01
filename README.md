@@ -19,6 +19,7 @@ This project is an AI-powered web application that allows social workers and car
 - 🌍 Free real-time referral search
 
 ## 🧱 Tech Stack
+<img width="1467" alt="Screenshot 2025-07-01 at 4 45 40 AM" src="https://github.com/user-attachments/assets/b6774ac1-8ad2-4665-86b6-ba3975def30a" />
 
 - `Python`
 - `Streamlit` for interactive UI
