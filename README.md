@@ -28,13 +28,19 @@ This project is an AI-powered web application that allows social workers and car
 - `pgeocode` for ZIP code resolution
 - `OpenStreetMap Nominatim API` for referrals
 
-## 📸 Demo Screenshot
 
-![Screenshot](screenshots/sdoh_dashboard.png)
+🧪 Sample Prompt
 
-## 🔐 Setup Instructions
+Patient is a 45-year-old single mother recently evicted from her apartment. 
+She has three children, works two part-time jobs, and struggles with groceries and transportation.
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/sdoh-risk-dashboard.git
-cd sdoh-risk-dashboard
+📍 Future Enhancements
+Embedding-based RAG for local policy matching
+
+Custom training for clinical-style notes
+
+Audit logs for LLM decisions
+
+Map-based resource navigation
+
+Support for multi-state referrals
