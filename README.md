@@ -62,7 +62,7 @@ Developed an AI-powered web application which enables social workers and care ma
 
 ## Conclusion
 
-I’m passionate about—healthcare and social equity. The assistant I built might be small in scale, but it demonstrates how powerful and accessible LLM-based systems have become.
+I’m passionate about - healthcare and social equity. The assistant I built might be small in scale, but it demonstrates how powerful and accessible LLM-based systems have become.
 
 By translating a free-text note into structured risk signals and then linking those to local interventions, this prototype shows the potential of AI to amplify the work of social workers, not replace them.
 
